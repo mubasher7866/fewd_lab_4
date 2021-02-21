@@ -1,8 +1,8 @@
 var hotel = {
     // Object properties
     name: 'Atlantis',
-    rooms: 110,
-    booked: 25,
+    rooms: 100,
+    booked: 20,
     gym: true,
     roomTypes: ['double', 'twin', 'suite', 'king'],
     checkAvailablity: function() {
